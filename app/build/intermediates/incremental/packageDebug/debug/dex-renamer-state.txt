@@ -1,0 +1,4 @@
+#Mon Jan 22 17:13:23 CST 2018
+base.0=F\:\\js\\Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=F\:\\js\\Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

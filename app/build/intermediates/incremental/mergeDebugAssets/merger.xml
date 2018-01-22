@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\js\Demo\app\src\main\assets"><file name="demo.html" path="F:\js\Demo\app\src\main\assets\demo.html"/><file name="demo2.html" path="F:\js\Demo\app\src\main\assets\demo2.html"/></source><source path="F:\js\Demo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\js\Demo\app\src\debug\assets"/></dataSet></merger>

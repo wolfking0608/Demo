@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Jan 22 17:13:23 CST 2018
+2.base=F\:\\js\\Demo\\app\\build\\intermediates\\assets\\debug
+5.file=F\:\\js\\Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+5.set=DEX
+3.base=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ASSET
+4.base=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=F\:\\js\\Demo\\app\\build\\intermediates\\assets\\debug\\demo2.html
+5.base=F\:\\js\\Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+4.set=ANDROID_RESOURCE
+6.base=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=F\:\\js\\Demo\\app\\build\\intermediates\\assets\\debug\\demo.html
+6.set=ANDROID_RESOURCE
+0.base=F\:\\js\\Demo\\app\\build\\intermediates\\assets\\debug
+3.file=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_pass_byvalue_2js.xml
+3.set=ANDROID_RESOURCE
+1.base=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=F\:\\js\\Demo\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.set=ASSET
